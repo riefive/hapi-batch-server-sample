@@ -1,2 +1,2 @@
 # hapi-batch-sample
-Hapi Batch Example
+Hapi Batch Server Example
